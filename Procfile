@@ -1,1 +1,0 @@
-web: gunicorn rando_land.wsgi --log-file -
